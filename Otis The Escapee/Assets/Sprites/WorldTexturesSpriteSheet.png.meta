@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: baad9270a5e28bb488e36701052e007a
+timeCreated: 1468861792
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WorldTexturesSpriteSheet_0
+    21300002: WorldTexturesSpriteSheet_1
+    21300004: WorldTexturesSpriteSheet_2
+    21300006: WorldTexturesSpriteSheet_3
+    21300008: WorldTexturesSpriteSheet_4
+    21300010: WorldTexturesSpriteSheet_5
+    21300012: WorldTexturesSpriteSheet_6
+    21300014: WorldTexturesSpriteSheet_7
+    21300016: WorldTexturesSpriteSheet_8
+    21300018: WorldTexturesSpriteSheet_9
+    21300020: WorldTexturesSpriteSheet_10
+    21300022: WorldTexturesSpriteSheet_11
+    21300024: WorldTexturesSpriteSheet_12
+    21300026: WorldTexturesSpriteSheet_13
+    21300028: WorldTexturesSpriteSheet_14
+    21300030: WorldTexturesSpriteSheet_15
+    21300032: WorldTexturesSpriteSheet_16
+    21300034: WorldTexturesSpriteSheet_17
+    21300036: WorldTexturesSpriteSheet_18
+    21300038: WorldTexturesSpriteSheet_19
+    21300040: WorldTexturesSpriteSheet_20
+    21300042: WorldTexturesSpriteSheet_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WorldTexturesSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: WorldTexturesSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: WorldTexturesSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: WorldTexturesSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: WorldTexturesSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: WorldTexturesSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: WorldTexturesSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -22}
+        - {x: 64, y: 23}
+        - {x: 51, y: 42}
+        - {x: 16, y: 42}
+        - {x: 16, y: 41}
+        - {x: 18, y: 37}
+        - {x: 11, y: 28}
+        - {x: 9, y: 16}
+        - {x: 14, y: 13}
+        - {x: 5, y: 10}
+        - {x: 3, y: 8}
+        - {x: 6, y: 12}
+        - {x: 6, y: 13}
+        - {x: 2, y: 18}
+        - {x: 1, y: 18}
+        - {x: 10, y: 28}
+        - {x: 17, y: 36}
+        - {x: -13, y: 42}
+        - {x: -38, y: 42}
+        - {x: -43, y: 28}
+        - {x: -42, y: 16}
+        - {x: -40, y: 14}
+        - {x: -35, y: 13}
+        - {x: -26, y: 22}
+        - {x: -20, y: 13}
+        - {x: -18, y: 11}
+        - {x: -18, y: 4}
+        - {x: -20, y: 5}
+        - {x: -18, y: 9}
+        - {x: -18, y: 11}
+        - {x: -21, y: 14}
+        - {x: -27, y: 14}
+        - {x: -34, y: 9}
+        - {x: -44, y: 16}
+        - {x: -64, y: 14}
+        - {x: -64, y: -14}
+        - {x: -61, y: -14}
+        - {x: -58, y: -12}
+        - {x: -62, y: -17}
+        - {x: -64, y: -17}
+        - {x: -64, y: -64}
+        - {x: 39, y: -64}
+        - {x: 62, y: -52}
+        - {x: 59, y: -24}
+        - {x: 55, y: -22}
+        - {x: 50, y: -22}
+    - name: WorldTexturesSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 57}
+        - {x: -64, y: 30}
+        - {x: -64, y: -28}
+        - {x: -55, y: -28}
+        - {x: -57, y: -28}
+        - {x: -59, y: -30}
+        - {x: -64, y: -32}
+        - {x: -64, y: -64}
+        - {x: 60, y: -64}
+        - {x: 64, y: -63}
+        - {x: 64, y: 49}
+        - {x: 52, y: 57}
+    - name: WorldTexturesSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: WorldTexturesSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: WorldTexturesSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: WorldTexturesSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: WorldTexturesSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: WorldTexturesSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: WorldTexturesSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: WorldTexturesSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: WorldTexturesSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: WorldTexturesSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: WorldTexturesSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: WorldTexturesSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 8}
+        - {x: -50, y: -6}
+        - {x: -55, y: -41}
+        - {x: -55, y: -64}
+        - {x: 51, y: -64}
+        - {x: 51, y: -19}
+        - {x: 33, y: 8}
+    - name: WorldTexturesSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 8}
+        - {x: -50, y: -6}
+        - {x: -55, y: -41}
+        - {x: -55, y: -64}
+        - {x: 51, y: -64}
+        - {x: 51, y: -19}
+        - {x: 33, y: 8}
+    - name: WorldTexturesSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 8}
+        - {x: -50, y: -6}
+        - {x: -55, y: -41}
+        - {x: -55, y: -64}
+        - {x: 51, y: -64}
+        - {x: 51, y: -19}
+        - {x: 33, y: 8}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

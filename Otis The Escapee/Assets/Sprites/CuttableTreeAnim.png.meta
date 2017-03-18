@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: d38c2517349ce4647811bb717d413b65
+timeCreated: 1468788244
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CuttableTreeAnim_0
+    21300002: CuttableTreeAnim_1
+    21300004: CuttableTreeAnim_2
+    21300006: CuttableTreeAnim_3
+    21300008: CuttableTreeAnim_4
+    21300010: CuttableTreeAnim_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CuttableTreeAnim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: -21}
+        - {x: -7, y: -51}
+        - {x: 43, y: -51}
+        - {x: 56, y: -40}
+        - {x: 56, y: 25}
+        - {x: 40, y: 48}
+        - {x: -28, y: 48}
+        - {x: -55, y: 21}
+    - name: CuttableTreeAnim_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 48}
+        - {x: -55, y: -22}
+        - {x: -15, y: -53}
+        - {x: 45, y: -53}
+        - {x: 57, y: -39}
+        - {x: 57, y: 25}
+        - {x: 42, y: 48}
+    - name: CuttableTreeAnim_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 46}
+        - {x: -54, y: -27}
+        - {x: -19, y: -55}
+        - {x: 51, y: -55}
+        - {x: 58, y: -46}
+        - {x: 58, y: 26}
+        - {x: 44, y: 46}
+    - name: CuttableTreeAnim_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 46}
+        - {x: -54, y: -53}
+        - {x: 40, y: -53}
+        - {x: 57, y: -41}
+        - {x: 57, y: 32}
+        - {x: 45, y: 46}
+    - name: CuttableTreeAnim_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 48}
+        - {x: -55, y: 47}
+        - {x: -55, y: -28}
+        - {x: -41, y: -38}
+        - {x: -9, y: -51}
+        - {x: 37, y: -51}
+        - {x: 55, y: -37}
+        - {x: 55, y: 35}
+        - {x: 45, y: 48}
+    - name: CuttableTreeAnim_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 49}
+        - {x: -56, y: -12}
+        - {x: -15, y: -49}
+        - {x: 26, y: -49}
+        - {x: 57, y: -37}
+        - {x: 57, y: 39}
+        - {x: 53, y: 49}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: e016602c8c65d8a43bb0e6c526a8b602
+timeCreated: 1468626983
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bullet_0
+    21300002: Bullet_1
+    21300004: Bullet_2
+    21300006: Bullet_3
+    21300008: Bullet_4
+    21300010: Bullet_5
+    21300012: Bullet_6
+    21300014: Bullet_7
+    21300016: Bullet_8
+    21300018: Bullet_9
+    21300020: Bullet_10
+    21300022: Bullet_11
+    21300024: Bullet_12
+    21300026: Bullet_13
+    21300028: Bullet_14
+    21300030: Bullet_15
+    21300032: Bullet_16
+    21300034: Bullet_17
+    21300036: Bullet_18
+    21300038: Bullet_19
+    21300040: Bullet_20
+    21300042: Bullet_21
+    21300044: Bullet_22
+    21300046: Bullet_23
+    21300048: Bullet_24
+    21300050: Bullet_25
+    21300052: Bullet_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bullet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    - name: Bullet_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -11}
+        - {x: 9, y: -11}
+        - {x: 9, y: 5}
+        - {x: 4, y: 8}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
